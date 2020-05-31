@@ -1,6 +1,8 @@
 # Spam-or-Ham-Detector-using-NLP
 The mentioned project deals with classifying a bunch of messages obtained from different sources into spam or ham by using basic Natural Language Techniques and Naive-Bayes Classification algorithm. Basically the working of this model can be summarized as it trains on a set of cleaned training data and tested upon an unseen  set of data or Test data which contains random labelled messages as being spam or ham. The output of this model is that the message either being classified as spam (1) or ham (0).
 
+![](images/spamorham.png)
+
 # Source of Dataset
 The source of the SMS Phone Messages dataset used in this project is obtained from using a dataset from the UCI datasets (https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection). It is a collection of 425 SMS spam messages which was manually extracted from the Grumbletext Web site. This is a UK forum in which cell phone users make public claims about SMS spam messages, most of them without reporting the very spam message received. The dataset contains 5574 instances of total messages including both ham as well as spams.
 
