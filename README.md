@@ -1,0 +1,2 @@
+# Spam-or-Ham-Detector-using-NLP
+The mentioned project deals with classifying a bunch of messages obtained from different sources into spam or ham by using basic Natural Language Techniques and Naive-Bayes Classification algorithm. Basically the working of this model can be summarized as it trains on a set of cleaned training data and tested upon an unseen  set of data or Test data which contains random labelled messages as being spam or ham. The output of this model is that the message either being classified as spam (1) or ham (0).
